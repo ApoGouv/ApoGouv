@@ -1,4 +1,4 @@
-<h2 align="left">Hey there! 👋 I'm Apostolos, a Full Stack Web Developer originally from Larissa, Greece, now based in Thessaloniki.</h2>
+<h2 align="left">Hey there! 👋 I'm Apostolos, a Full Stack Web Developer currently based in Thessaloniki, Greece.</h2>
 
 ###
 
